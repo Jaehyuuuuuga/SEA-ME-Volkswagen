@@ -7,7 +7,7 @@
 ## Our Team Member
 김서현 -> https://github.com/Deep-of-Machine
 <br/> 김다현 -> https://github.com/Dadaah
-<br/> 김재혁 -> https://github.com/wogur310/wogur310
+<br/> 김재혁 -> ~~https://github.com/wogur310/wogur310~~ -> https://github.com/Jaehyuuuuuga
 
 ## Contents
 - [Step 1 : Install Ubuntu image on VMware](#Step-1-VMwareWorkstation17)
